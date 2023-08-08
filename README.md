@@ -1,7 +1,7 @@
 ## OLÁ! EU SOU O DAN SORIA!
 
 - 🔭 EM BUSCA DO PRIMEIRO EMPREGO.
-- 🌱 ESTUDANDO BACK-END E FRONT-END.
+- 🌱 FORMADO EM FRONT-END E ESTUDANDO BACK-END, C#, SQL, NODEJS E JAVASCRIPT.
 - 📫 CONTATE-ME NO EMAIL: soriadanillo@gmail.com
 
 <div style="display: inline_block"><br>
